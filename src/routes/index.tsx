@@ -4,7 +4,7 @@ export const Route = createFileRoute('/')({
   component: LandingPage,
 })
 
-const WHATSAPP_LINK = 'https://chat.whatsapp.com/SEU-LINK-AQUI'
+const WHATSAPP_LINK = 'https://chat.whatsapp.com/B6vZeY4VepIF1reDahdHSk'
 
 function WhatsAppIcon({ size = 20 }: { size?: number }) {
   return (
